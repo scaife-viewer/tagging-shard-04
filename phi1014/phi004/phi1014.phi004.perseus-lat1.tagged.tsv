@@ -1,0 +1,180 @@
+1	0	nam	PART	conjunction		nam	discourse	20
+1	1	memini	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Perf|VerbForm=Fin|Voice=Act	memini	advmod:emph	20
+1	2	iuuenis	ADJ	noun	Case=Abl|Gender=Masc|Number=Plur	iuuenis	obl:arg	11
+1	3	admodum	ADV	adverb		admodum	advmod	11
+1	4	inter	ADP	ADP		inter	case	5
+1	5	Pomponium	PROPN	proper_noun	Case=Acc|Gender=Masc|Number=Sing	Pomponius	obl	11
+1	6	ac	CCONJ	conjunction		atque	cc	7
+1	7	Senecam	PROPN	proper_noun	Case=Acc|Gender=Masc|Number=Sing	Seneca	conj	5
+1	8	etiam	ADV	conjunction		etiam	advmod:emph	9
+1	9	praefationibus	NOUN	noun	Case=Abl|Gender=Fem|Number=Plur	praefatio	obl	11
+1	10	esse	AUX	verb	Tense=Pres|VerbForm=Inf	sum	aux:pass	11
+1	11	tractatum	VERB	noun	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	tractatum	xcomp	1
+1	12	an	CCONJ	conjunction		an	cc	15
+1	13	“	PUNCT	punc		“	punct	15
+1	14	gradus	NOUN	noun	Case=Acc|Gender=Masc|Number=Plur	gradus	obj	15
+1	15	eliminat	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	elimino	conj	11
+1	16	”	PUNCT	punc		”	punct	15
+1	17	in	ADP	ADP		in	case	18
+1	18	tragoedia	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	tragoedia	obl	19
+1	19	dici	VERB	verb	Tense=Pres|VerbForm=Inf|Voice=Pass	dico	ccomp	20
+1	20	oportuisset	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	oportet	ROOT	20
+1	21	.	PUNCT	punc		.	punct	20
+1	22	Quint.	NOUN	adjective		Quint.	ROOT	22
+1	23	VIII	NUM	number		VIII	nummod	22
+1	24	3,31	NUM	number		3,31	nummod	22
+1	25	.	PUNCT	punc		.	punct	22
+2	0	noui	ADJ	adjective	Case=Nom|Gender=Masc|Number=Plur	nosco	amod	18
+2	1	uero	ADV	adverb		uero	advmod	11
+2	2	et	CCONJ	conjunction		et	cc	4
+2	3	praecipue	ADV	adverb		praecipuus	advmod	4
+2	4	declamatores	NOUN	noun	Case=Nom|Gender=Masc|Number=Plur	declamator	dep	11
+2	5	audacius	ADV	adverb		audacter	advmod	11
+2	6	nec	CCONJ	conjunction		neque	cc	7
+2	7	mehercule	INTJ	interjection		Hercules	discourse	11
+2	8	sine	ADP	ADP		sine	case	9
+2	9	motu	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	motus	obl	11
+2	10	quodam	DET	adjective	Case=Abl|Gender=Masc|Number=Sing	quidam	det	9
+2	11	imaginantur	VERB	verb	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	imaginor	ROOT	11
+2	12	,	PUNCT	punc		,	punct	14
+2	13	ut	SCONJ	adverb		ut	mark	14
+2	14	Seneca	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Seneca	advcl:cmp	11
+2	15	in	ADP	ADP		in	case	16
+2	16	controuersia	NOUN	noun	Case=Abl|Gender=Fem|Number=Sing	controuersia	obl	32
+2	17	cuius	PRON	pronoun	Case=Gen|Gender=Fem|Number=Sing	qui	nmod	18
+2	18	summa	ADJ	adjective	Case=Nom|Gender=Fem|Number=Sing	summus	nsubj	32
+2	19	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	32
+2	20	,	PUNCT	punc		,	punct	19
+2	21	quod	SCONJ	conjunction		quod	mark	32
+2	22	pater	NOUN	noun	Case=Nom|Gender=Masc|Number=Sing	pater	nsubj	32
+2	23	filium	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	filius	obj	26
+2	24	et	CCONJ	conjunction		et	cc	25
+2	25	nouercam	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	nouerca	conj	23
+2	26	inducente	VERB	verb	Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	induco	advcl:abs	31
+2	27	altero	DET	adjective	Case=Abl|Gender=Masc|Number=Sing	alter	det	28
+2	28	filio	NOUN	noun	Case=Abl|Gender=Masc|Number=Sing	filius	nsubj	26
+2	29	in	ADP	ADP		in	case	30
+2	30	adulterio	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	adulterium	obl:arg	31
+2	31	deprensos	VERB	verb	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	deprendo	ccomp	32
+2	32	occidit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	occido	orphan	14
+2	33	:	PUNCT	punc		:	punct	11
+2	34	“	PUNCT	punc		“	punct	37
+2	35	duc	NOUN	noun	Case=Voc|Gender=Masc|Number=Sing	duco	parataxis	37
+2	36	,	PUNCT	punc		,	punct	35
+2	37	sequor	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	sequor	ROOT	37
+2	38	:	PUNCT	punc		:	punct	37
+2	39	accipe	VERB	verb	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	accipio	ROOT	39
+2	40	hanc	DET	adjective	Case=Acc|Gender=Fem|Number=Sing	hic	det	42
+2	41	senilem	ADJ	adjective	Case=Acc|Gender=Fem|Number=Sing	senilis	amod	42
+2	42	manum	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	manus	obj	39
+2	43	et	CCONJ	conjunction		et	cc	46
+2	44	quocumque	DET	adjective	Case=Abl|Gender=Neut|Number=Sing	quicumque	obl	45
+2	45	uis	NOUN	verb	Case=Nom|Gender=Fem|Number=Sing	uis	ccomp	46
+2	46	inprime	VERB	verb	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	imprimo	conj	39
+2	47	”	PUNCT	punc		”	punct	39
+2	48	et	CCONJ	conjunction		et	cc	50
+2	49	post	ADP	ADP		post	case	50
+2	50	paulo	VERB	noun	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	paulus	conj	39
+2	51	:	PUNCT	punc		:	punct	39
+2	52	“	PUNCT	punc		“	punct	53
+2	53	aspice	VERB	verb	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	aspicio	csubj	55
+2	54	,	PUNCT	punc		,	punct	53
+2	55	inquit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	inquam	ROOT	55
+2	56	,	PUNCT	punc		,	punct	60
+2	57	quod	PRON	pronoun	Case=Acc|Gender=Neut|Number=Sing	qui	mark	60
+2	58	diu	ADV	adverb		diu	advmod	60
+2	59	non	PART	particle		non	advmod:neg	60
+2	60	credidisti	VERB	verb	Mood=Ind|Number=Sing|Person=2|Tense=Perf|VerbForm=Fin|Voice=Act	credo	ccomp	55
+2	61	.	PUNCT	punc		.	punct	55
+2	62	ego	PRON	pronoun	Case=Nom|Number=Sing|Person=1	ego	nsubj	65
+2	63	uero	ADV	adverb		uero	discourse	65
+2	64	non	PART	particle		non	advmod:neg	65
+2	65	uideo	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	uideo	ROOT	65
+2	66	,	PUNCT	punc		,	punct	68
+2	67	nox	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	nox	nsubj	68
+2	68	oboritur	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	oborior	conj	65
+2	69	et	CCONJ	conjunction		et	cc	70
+2	70	crassa	ADJ	adjective	Case=Acc|Gender=Neut|Number=Plur	crassus	conj	68
+2	71	caligo	VERB	noun	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	caligo	orphan	70
+2	72	.	PUNCT	punc		.	punct	65
+2	73	”	PUNCT	punc		”	punct	74
+2	74	Quint.	PUNCT	adjective		Quint.	conj	65
+2	75	9.2.42	PUNCT	number		9.2.42	nummod	74
+3	0	nam	PART	particle		nam	discourse	14
+3	1	et	CCONJ	conjunction		et	cc	14
+3	2	in	ADP	preposition		in	case	3
+3	3	totum	DET	adjective	Case=Acc|Gender=Neut|Number=Sing	totus	det	4
+3	4	iurare	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Act	iuro	csubj	14
+3	5	,	PUNCT	punc		,	punct	8
+3	6	nisi	SCONJ	conjunction		nisi	mark	8
+3	7	ubi	ADV	adverb		ubi	advmod:lmod	8
+3	8	necesse	ADJ	adjective		necesse	advcl	14
+3	9	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	cop	8
+3	10	,	PUNCT	punc		,	punct	8
+3	11	graui	ADJ	adjective	Case=Dat|Gender=Masc|Number=Sing	grauis	amod	12
+3	12	uiro	NOUN	noun	Case=Dat|Gender=Masc|Number=Sing	uir	obl:arg	14
+3	13	parum	NOUN	adverb		parum	advmod	14
+3	14	conuenit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	conuenio	ROOT	14
+3	15	,	PUNCT	punc		,	punct	20
+3	16	et	ADV	conjunction		et	cc	20
+3	17	est	AUX	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	sum	aux:pass	20
+3	18	a	ADP	preposition		ab	case	19
+3	19	Seneca	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Seneca	obl:arg	20
+3	20	dictum	VERB	verb	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	dico	conj	14
+3	21	eleganter	ADV	adverb		eleganter	advmod	20
+3	22	,	PUNCT	punc		,	punct	24
+3	23	non	PART	particle		non	advmod:neg	24
+3	24	patronorum	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	patronus	csubj:pass	20
+3	25	hoc	DET	adjective	Case=Acc|Gender=Neut|Number=Sing	hic	nsubj	24
+3	26	esse	AUX	verb	Tense=Pres|VerbForm=Inf	sum	cop	24
+3	27	sed	CCONJ	conjunction		sed	cc	28
+3	28	testium	NOUN	noun	Case=Gen|Gender=Masc|Number=Plur	testis	dep	24
+3	29	.	PUNCT	punc		.	punct	14
+3	30	Quint.	NOUN	adjective		Quint.	ROOT	30
+3	31	9.2.98	NUM	number		9.2.98	nummod	30
+3	32	.	PUNCT	punc		.	punct	30
+4	0	et	CCONJ	conjunction		et	cc	2
+4	1	Seneca	PROPN	proper_noun	Case=Nom|Gender=Masc|Number=Sing	Seneca	nsubj	2
+4	2	tradidit	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Perf|VerbForm=Fin|Voice=Act	trado	ROOT	2
+4	3	Iulium	PROPN	proper_noun	Case=Acc|Gender=Masc|Number=Sing	Iulius	obj	2
+4	4	Montanum	ADJ	noun	Case=Acc|Gender=Masc|Number=Sing	montanus	amod	3
+4	5	poetam	NOUN	noun	Case=Acc|Gender=Masc|Number=Sing	poeta	appos	3
+4	6	solitum	VERB	verb	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	soleo	acl	3
+4	7	dicere	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Act	dico	xcomp	6
+4	8	,	PUNCT	punc		,	punct	9
+4	9	inuolaturum	VERB	verb	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	inuolo	ccomp	7
+4	10	se	PRON	pronoun	Case=Acc|Number=Sing|Person=3	sui	obj	9
+4	11	Vergilio	NOUN	noun	Case=Abl|Gender=Neut|Number=Sing	Vergilio	obl	9
+4	12	quaedam	DET	adjective	Case=Abl|Gender=Fem|Number=Sing	quidam	obj	9
+4	13	si	SCONJ	conjunction		si	mark	16
+4	14	et	CCONJ	conjunction		et	cc	15
+4	15	uocem	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	uox	obj	16
+4	16	posset	VERB	verb	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	possum	advcl	9
+4	17	et	CCONJ	conjunction		et	cc	18
+4	18	os	NOUN	noun	Case=Nom|Gender=Neut|Number=Sing	os	conj	16
+4	19	et	CCONJ	conjunction		et	cc	20
+4	20	hypocrisin	NOUN	noun	Case=Acc|Gender=Fem|Number=Sing	hypocrisin	conj	18
+4	21	:	PUNCT	punc		:	punct	2
+4	22	eosdem	DET	adjective	Case=Acc|Gender=Masc|Number=Plur	idem	dep	32
+4	23	enim	PART	conjunction		enim	discourse	32
+4	24	uersus	NOUN	adverb	Case=Acc|Gender=Masc|Number=Plur	uersus	dep	32
+4	25	ipso	DET	determiner	Case=Abl|Gender=Masc|Number=Sing	ipse	nsubj	26
+4	26	pronuntiante	VERB	verb	Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	pronuntio	advcl:abs	32
+4	27	bene	ADV	adverb		bene	advmod	28
+4	28	sonare	VERB	verb	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Inf|Voice=Act	sono	xcomp	26
+4	29	,	PUNCT	punc		,	punct	26
+4	30	sine	ADP	preposition		sine	case	31
+4	31	illo	DET	adjective	Case=Abl|Gender=Masc|Number=Sing	ille	obl	32
+4	32	inanes	ADJ	adjective	Case=Acc|Gender=Masc|Number=Plur	inanis	ROOT	32
+4	33	esse	AUX	verb	Tense=Pres|VerbForm=Inf	sum	cop	32
+4	34	mutos	VERB	adjective	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	mutus	dep	32
+4	35	que	VERB	adjective	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	quus	dep	32
+4	36	.	PUNCT	punc		.	punct	32
+4	37	Donat	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	dono	ROOT	37
+4	38	.	PUNCT	punc		.	punct	37
+4	39	uita	NOUN	noun	Case=Nom|Gender=Fem|Number=Sing	uita	ROOT	39
+4	40	Vergilii	NOUN	noun	Case=Gen|Gender=Neut|Number=Sing	Vergilii	nmod	39
+4	41	p.	PUNCT	punc		p.	punct	39
+4	42	61.5	NUM	number		61.5	nummod	41
+4	43	Reiff	NOUN	proper_noun		Reiff	nmod	39
+4	44	.	PUNCT	punc		.	punct	43
